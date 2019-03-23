@@ -6,3 +6,5 @@ Ich kann den Traffic auf der Seite nachvollziehen und auswerten welche Schmuckst
 
 # thirtybees
 Der Shop soll mir thirtybees erstellt werden
+
+Stand: xampp installiert
